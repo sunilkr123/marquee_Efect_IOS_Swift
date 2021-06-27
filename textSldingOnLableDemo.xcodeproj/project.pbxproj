@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B05EC6562688A35900B37D98 /* Screen Recording 2021-06-27 at 5.43.54 PM.mov in Resources */ = {isa = PBXBuildFile; fileRef = B05EC6552688A35900B37D98 /* Screen Recording 2021-06-27 at 5.43.54 PM.mov */; };
 		B0820F61268675F00055907F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0820F60268675F00055907F /* AppDelegate.swift */; };
 		B0820F63268675F00055907F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0820F62268675F00055907F /* SceneDelegate.swift */; };
 		B0820F65268675F00055907F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0820F64268675F00055907F /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B05EC6552688A35900B37D98 /* Screen Recording 2021-06-27 at 5.43.54 PM.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Screen Recording 2021-06-27 at 5.43.54 PM.mov"; sourceTree = "<group>"; };
 		B0820F5D268675F00055907F /* textSldingOnLableDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = textSldingOnLableDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0820F60268675F00055907F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0820F62268675F00055907F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		B0820F5F268675F00055907F /* textSldingOnLableDemo */ = {
 			isa = PBXGroup;
 			children = (
+				B05EC6552688A35900B37D98 /* Screen Recording 2021-06-27 at 5.43.54 PM.mov */,
 				B0820F60268675F00055907F /* AppDelegate.swift */,
 				B0820F62268675F00055907F /* SceneDelegate.swift */,
 				B0820F64268675F00055907F /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				B0820F6D268675F30055907F /* LaunchScreen.storyboard in Resources */,
 				B0820F6A268675F30055907F /* Assets.xcassets in Resources */,
 				B0820F68268675F00055907F /* Main.storyboard in Resources */,
+				B05EC6562688A35900B37D98 /* Screen Recording 2021-06-27 at 5.43.54 PM.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
